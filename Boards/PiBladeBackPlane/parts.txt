@@ -1,0 +1,31 @@
+Partlist
+
+Exported from PiBladeBackPlane-V1.brd at 25/01/2019 11:45
+
+EAGLE Version 7.4.0 Copyright (c) 1988-2015 CadSoft
+
+Assembly variant: 
+
+Part     Value               Package             Library             Position (mm)         Orientation
+
+D1       GREEN               LED-1206            SparkFun-LED        (84.3 28.6)           R0
+D2       BLUE                LED-1206            SparkFun-LED        (15.1 3.5)            R0
+D3       BLUE                LED-1206            SparkFun-LED        (42.3 3.6)            R0
+D4       BLUE                LED-1206            SparkFun-LED        (84.3 3.7)            R0
+J1                           MOLEX-1X3           SparkFun-Connectors (28.56 28.82)         R0
+J2                           MOLEX-1X3           SparkFun-Connectors (58.17 28.92)         R0
+J4                           JST-2-SMD-VERT      SparkFun-Connectors (23.64 3.12)          R180
+J5                           JST-2-SMD-VERT      SparkFun-Connectors (61.03 3.12)          R180
+J7                           SCREWTERMINAL-5MM-2 SparkFun-Connectors (71.59 19.89)         R180
+J8                           JST-4-PTH-VERT      SparkFun-Connectors (94.88 29.57)         R0
+J9                           JST-4-PTH-VERT      SparkFun-Connectors (13.28 29.61)         R0
+JP1      USB-NEW             USB-A-VERTICAL      Tinamous            (5 16)                MR0
+JP2      USB-NEW             USB-A-VERTICAL      Tinamous            (46.1 16)             MR0
+JP3      USB-NEW             USB-A-VERTICAL      Tinamous            (90.2 16)             MR0
+R1                           1206                SparkFun-Resistors  (78.6 28.6)           R0
+R2                           1206                SparkFun-Resistors  (10.6 4.9)            R270
+R3                           1206                SparkFun-Resistors  (37.6 5)              R270
+R4                           1206                SparkFun-Resistors  (79.4 5.1)            R270
+U$1      MINI-BUCK-MODULE-3A MINI-BUCK-MODULE-3A Tinamous            (8.83 24.33)          MR180
+U$2      MINI-BUCK-MODULE-3A MINI-BUCK-MODULE-3A Tinamous            (35.83 24.33)         MR180
+U$3      MINI-BUCK-MODULE-3A MINI-BUCK-MODULE-3A Tinamous            (77.63 24.38)         MR180

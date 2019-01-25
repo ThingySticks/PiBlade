@@ -1,0 +1,63 @@
+Partlist
+
+Exported from PiBackPlaneConnector-V1.brd at 25/01/2019 11:44
+
+EAGLE Version 7.4.0 Copyright (c) 1988-2015 CadSoft
+
+Assembly variant: 
+
+Part        Value                               Package                      Library                Position (mm)         Orientation
+
+A                                               1X02                         SparkFun-Connectors    (-20.955 29.21)       R180
+B                                               1X02                         SparkFun-Connectors    (-20.955 26.67)       R180
+BUTTONS                                         1X06-1MM                     SparkFun-Connectors    (56 32.4)             R0
+C1          0.1uF                               0805                         SparkFun-Capacitors    (-16.9 21.4)          R0
+C2          0.1uF                               0805                         SparkFun-Capacitors    (0.7 43.9)            R180
+C3          1.0uF                               0805                         SparkFun-Capacitors    (3.37 55.965)         R0
+C4          0.1uF                               0805                         SparkFun-Capacitors    (-7.2 44.3)           R180
+C5          0.1uF                               0805                         SparkFun-Capacitors    (5.1 15.7)            R180
+D5          BLUE                                LED-1206                     SparkFun-LED           (-30.5 59.9)          R180
+D6          BLUE                                LED-1206                     SparkFun-LED           (-9.4 55.4)           R180
+DISPLAY     DISPLAY0.91_INCH_DISPLAY            I2C_DISPLAY_0.91_INCH        ThingySticks           (20.1 -0.4)           R0
+GPIO-1                                          JST-4-PTH-VERT               SparkFun-Connectors    (42 15.6)             R0
+GPIO-2                                          JST-4-PTH-VERT               SparkFun-Connectors    (29 15.6)             R0
+GPIO-3                                          JST-4-PTH-VERT               SparkFun-Connectors    (55 15.6)             R0
+GREEN_LEDS                                      1X06-1MM                     SparkFun-Connectors    (28.9 32.3)           R0
+I2C-1                                           JST-4-PTH-VERT               SparkFun-Connectors    (16 42)               R0
+I2C-2                                           JST-4-PTH-VERT               SparkFun-Connectors    (16 33.2)             R0
+I2C-3                                           JST-4-PTH-VERT               SparkFun-Connectors    (16 24.4)             R0
+I2C-4                                           JST-4-PTH-VERT               SparkFun-Connectors    (16 15.6)             R0
+J1          CONN_20X2NOSILK                     2X20_NOSILK                  SparkFun-Connectors    (8.4 51.2)            R0
+J2                                              MOLEX-1X2                    SparkFun-Connectors    (-20.6 58.4)          R180
+J3                                              1X14                         SparkFun-Connectors    (-33.02 18.415)       R0
+J4          USB_A_SMT_MALE                      USB-A-SMT-MALE               Tinamous               (-40.3 28)            R0
+J7                                              1X02                         SparkFun-Connectors    (8.4 48.4)            R270
+J8                                              1X14                         SparkFun-Connectors    (-33.02 -1.905)       R0
+J9                                              1X14_NO_SILK                 SparkFun-Connectors    (-33.02 15.875)       R0
+J10                                             1X14_NO_SILK                 SparkFun-Connectors    (-33.02 13.335)       R0
+J11                                             1X14_NO_SILK                 SparkFun-Connectors    (-33.02 10.795)       R0
+J12                                             1X14_NO_SILK                 SparkFun-Connectors    (-33.02 8.255)        R0
+J13                                             1X14_NO_SILK                 SparkFun-Connectors    (-33.02 5.715)        R0
+J14                                             1X14_NO_SILK                 SparkFun-Connectors    (-33.02 3.175)        R0
+J15                                             1X14_NO_SILK                 SparkFun-Connectors    (-33.02 0.635)        R0
+JP2                                             SCREWTERMINAL-5MM-2@1        SparkFun-Connectors    (-30.52 48.77)        MR270
+LEDS                                            1X04_1MM_RA                  SparkFun-Connectors    (52.1 47)             MR0
+MC_I2C_PORT                                     1X06-1MM                     SparkFun-Connectors    (13.6 6.3)            R0
+NEOPIXELS                                       MOLEX-1X3                    SparkFun-Connectors    (23.6 58.1)           R180
+PWM                                             JST-4-PTH-VERT               SparkFun-Connectors    (42 42)               R0
+R1          0.1                                 1210                         SparkFun-Resistors     (-3.7 58.1)           R0
+R2          10k                                 0805                         SparkFun-Resistors     (-6.6 32.2)           R90
+R3                                              0805                         SparkFun-Resistors     (27.2 58.8)           R0
+R4          1k5                                 0805                         SparkFun-Resistors     (-26.4 59.9)          R180
+R5          1k                                  0805                         SparkFun-Resistors     (-7.9 52.5)           R90
+R6          10k                                 0805                         SparkFun-Resistors     (26.7 9.5)            R180
+R7          10k                                 0805                         SparkFun-Resistors     (26.7 6.9)            R180
+RED_LEDS                                        1X06-1MM                     SparkFun-Connectors    (41.6 32.4)           R0
+RTS                                             1X02                         SparkFun-Connectors    (-8.9 28.8)           R90
+SERIAL                                          JST-4-PTH-VERT               SparkFun-Connectors    (29 42)               R0
+SHUTDOWN    MOMENTARY-SWITCH-SPST-SMD-6.0X3.5MM TACTILE_SWITCH_SMD_6.0X3.5MM ThingySticks           (42 57.9)             R180
+U1           MAX3485CSA                         SO08                         SparkFun-IC-Comms      (-14 28.2)            R90
+U2          INA219AIDCNRSOIC                    SO08                         INA219AIDCNR           (4.3 39)              R90
+U3                                              SOT223                       SparkFun-PowerIC       (-3.2 48.5)           R90
+U4          SN74AHC1G125                        SOT23-5                      SparkFun-IC-Logic      (31.5 57.8)           R90
+U5          ADS1015                             MSOP10                       SparkFun-IC-Conversion (5.1 12)              R270

@@ -1,0 +1,56 @@
+Partlist
+
+Exported from PiBladePsuInput.brd at 25/01/2019 11:47
+
+EAGLE Version 7.4.0 Copyright (c) 1988-2015 CadSoft
+
+Assembly variant: 
+
+Part     Value            Package                      Library               Position (mm)         Orientation
+
+12V      RELAYSONGLE      SRD-5VDC-SL-C                ThingySticks          (23.12 40.35)         R0
+C1       1.0uF            0805                         SparkFun-Capacitors   (38.5 21.7)           R90
+C2       0.1uF            0805                         SparkFun-Capacitors   (38.5 26.4)           R270
+C3       1.0uF            0805                         SparkFun-Capacitors   (62.5 47.3)           R90
+C4       0.1uF            0805                         SparkFun-Capacitors   (77.1 47.5)           R0
+C5       0.1uF            0805                         SparkFun-Capacitors   (61.8 35.8)           R180
+C6       0.1uF            0805                         SparkFun-Capacitors   (65.7 42)             R270
+D1       1A/23V/620mV     SOD-323                      SparkFun-DiscreteSemi (35.2 45.2)           R90
+D2       1A/23V/620mV     SOD-323                      SparkFun-DiscreteSemi (36.4 37.3)           R0
+D3       1A/23V/620mV     SOD-323                      SparkFun-DiscreteSemi (35.3 20)             R0
+D4       BLUE             LED-1206                     SparkFun-LED          (77.8 1.9)            R0
+D5       BLUE             LED-1206                     SparkFun-LED          (57.7 27.8)           R270
+D6       BLUE             LED-1206                     SparkFun-LED          (81.1 48.5)           R270
+D7       BLUE             LED-1206                     SparkFun-LED          (10.2 35.2)           R0
+D8       BLUE             LED-1206                     SparkFun-LED          (10.1 20.2)           R0
+D9       BLUE             LED-1206                     SparkFun-LED          (10.1 5.9)            R0
+J1       CONN_20X2NOSILK  2X20_NOSILK                  SparkFun-Connectors   (8.4 51.2)            R0
+J2                        1X06-1MM                     SparkFun-Connectors   (66.2 28.1)           MR0
+J3                        1X04_1MM_RA                  SparkFun-Connectors   (44.2 30.8)           MR180
+JP1      POWER_JACKTOE    POWER_JACK_SMD_OVERPASTE_TOE SparkFun-Connectors   (81.6 19)             R180
+JP2                       SCREWTERMINAL-5MM-2          SparkFun-Connectors   (80.78 39.67)         R270
+JP3                       SCREWTERMINAL-5MM-2          SparkFun-Connectors   (4.22 40.33)          R90
+JP4                       SCREWTERMINAL-5MM-2          SparkFun-Connectors   (4.32 25.23)          R90
+JP5                       SCREWTERMINAL-5MM-2          SparkFun-Connectors   (4.22 10.83)          R90
+JP6      USB-NEW          USB-A-VERTICAL               Tinamous              (54.7 29)             R180
+Q1       220mA/50V/3.5?   SOT23-3                      SparkFun-DiscreteSemi (38.96 46.32)         R90
+Q2       220mA/50V/3.5?   SOT23-3                      SparkFun-DiscreteSemi (38.86 40.34)         R90
+Q3       220mA/50V/3.5?   SOT23-3                      SparkFun-DiscreteSemi (38.86 34.66)         R90
+R1       4k7              0805                         SparkFun-Resistors    (69.6 36.1)           R270
+R2       4k7              0805                         SparkFun-Resistors    (67.6 36.1)           R270
+R3                        0805                         SparkFun-Resistors    (72 1.9)              R0
+R4                        0805                         SparkFun-Resistors    (57.7 31.9)           R270
+R5                        0805                         SparkFun-Resistors    (77.1 50)             R0
+R6                        0805                         SparkFun-Resistors    (5.2 35.2)            R0
+R7       0.05             2512                         SparkFun-Resistors    (61.54 17.01)         R180
+R8       1M               0805                         SparkFun-Resistors    (46.6 34.59)          R90
+R9       1M               0805                         SparkFun-Resistors    (46.6 38.52)          R270
+R10      1M               0805                         SparkFun-Resistors    (46.37 45.4)          R0
+R11                       0805                         SparkFun-Resistors    (5.2 20.2)            R0
+R12                       0805                         SparkFun-Resistors    (9.8 3.2)             R0
+U$2      RELAYSONGLE      SRD-5VDC-SL-C                ThingySticks          (23.14 24.14)         R0
+U$3      RELAYSONGLE      SRD-5VDC-SL-C                ThingySticks          (23.12 7.94)          R0
+U1       INA219AIDCNRSOIC SO08                         INA219AIDCNR          (66.16 30.62)         R90
+U2       R-78E5.0-1.0     DC-DC_CONVERTER_78XX         SparkFun-IC-Power     (46.2 26.1)           R90
+U3                        SOT223                       SparkFun-PowerIC      (70 47.5)             R270
+U4       Tiny85-20-SMT    SO08-EIAJ                    SparkFun-DigitalIC    (58 41.8)             R270
